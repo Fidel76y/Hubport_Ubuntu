@@ -1,7 +1,7 @@
 HUBPORT
-Hubport is an windows application developed using Python GUI and socket programming.
+Hubport is an Ubuntu application developed using Python GUI and socket programming.
 
-Working:-Hubport provides a way to transfer a data from one windows client to another using either wired or wireless connection.For wireless connection you must have wifi adapter installed and enabled.
+Working:-Hubport provides a way to transfer a data from one Ubuntu client to another using either wired or wireless connection.For wireless connection you must have wifi adapter installed and enabled.
 
 In case of wired connection you have to provide the details of the server configuration and then you can connect to the server,explore all its shared file and download it.All the downloaded file will be downloaded in the download directory of this application.
 The shared data will be present in www.
